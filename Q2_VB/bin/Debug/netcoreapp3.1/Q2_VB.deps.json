@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Q2_VB/1.0.0": {
+        "runtime": {
+          "Q2_VB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q2_VB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

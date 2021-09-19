@@ -1,0 +1,14 @@
+C:\Users\usuario\LogicaVB\Q8_VB\bin\Debug\netcoreapp3.1\Q8_VB.exe
+C:\Users\usuario\LogicaVB\Q8_VB\bin\Debug\netcoreapp3.1\Q8_VB.deps.json
+C:\Users\usuario\LogicaVB\Q8_VB\bin\Debug\netcoreapp3.1\Q8_VB.runtimeconfig.json
+C:\Users\usuario\LogicaVB\Q8_VB\bin\Debug\netcoreapp3.1\Q8_VB.runtimeconfig.dev.json
+C:\Users\usuario\LogicaVB\Q8_VB\bin\Debug\netcoreapp3.1\Q8_VB.dll
+C:\Users\usuario\LogicaVB\Q8_VB\bin\Debug\netcoreapp3.1\Q8_VB.pdb
+C:\Users\usuario\LogicaVB\Q8_VB\obj\Debug\netcoreapp3.1\Q8_VB.vbproj.AssemblyReference.cache
+C:\Users\usuario\LogicaVB\Q8_VB\obj\Debug\netcoreapp3.1\Q8_VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\LogicaVB\Q8_VB\obj\Debug\netcoreapp3.1\Q8_VB.AssemblyInfoInputs.cache
+C:\Users\usuario\LogicaVB\Q8_VB\obj\Debug\netcoreapp3.1\Q8_VB.AssemblyInfo.vb
+C:\Users\usuario\LogicaVB\Q8_VB\obj\Debug\netcoreapp3.1\Q8_VB.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\LogicaVB\Q8_VB\obj\Debug\netcoreapp3.1\Q8_VB.dll
+C:\Users\usuario\LogicaVB\Q8_VB\obj\Debug\netcoreapp3.1\Q8_VB.pdb
+C:\Users\usuario\LogicaVB\Q8_VB\obj\Debug\netcoreapp3.1\Q8_VB.genruntimeconfig.cache
